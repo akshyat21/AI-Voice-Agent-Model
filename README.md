@@ -20,11 +20,3 @@ A fully functional voice AI agent that listens to your question, transcribes it,
 | Language Model | Groq – `llama-3.3-70b-versatile` |
 | Text‑to‑Speech | `gTTS` (Google Text‑to‑Speech) + `pygame` |
 | Environment | Python 3.9+ |
-
-## 📦 Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/AI-Voice-Agent-Model.git
-cd AI-Voice-Agent-Model
